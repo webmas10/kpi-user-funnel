@@ -5,11 +5,11 @@
 ## 📸 Dashboard Screenshots (Mock Data)
 
 ### User Funnel – Acquisition to Activation
-![User Funnel](assets/KPI Image 13 feb 2026, 18_27_07.png)
+![User Funnel](assets/KPIImage13feb2026,18_27_07.png)
 
 ### Cashout & Activity Metrics
-![Cashout Activity](assets/KPI user Image 13 feb 2026, 18_28_54.png)
+![Cashout Activity](assets/KPIuserImage13feb2026,18_28_54.png)
 
 ### KYC Flow & Error Analysis
-![KYC Flow](assets/Mobile Image 13 feb 2026, 18_30_13.png)
+![KYC Flow](assets/MobileImage13feb2026,18_30_13.png)
 
